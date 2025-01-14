@@ -105,7 +105,7 @@ def analyze_formality(email_text):
 MAILTRAP_SMTP_SERVER = "live.smtp.mailtrap.io"
 MAILTRAP_SMTP_PORT = 587
 MAILTRAP_USERNAME = "api"
-MAILTRAP_PASSWORD = "bafdd72faa607d7bdbaf6714d3721185"
+MAILTRAP_PASSWORD = "YOUR_MAILTRAP_PASSWORD"
 
 def send_email(sender_email, receiver_email, subject, body, attachment_path):
     try:
