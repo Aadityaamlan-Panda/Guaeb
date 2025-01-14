@@ -1,0 +1,6 @@
+azure-ai-contentsafety
+azure-ai-textanalytics
+azure-core
+sendgrid
+cohere
+tkintertable
